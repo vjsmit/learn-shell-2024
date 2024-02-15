@@ -3,4 +3,4 @@ ls -l
 
 echo Hello World
 
-echo -e "\e[31m Red Text \e[0m"
+echo -e "\e[31m  \e[0m"
