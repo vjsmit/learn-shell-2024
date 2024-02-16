@@ -1,5 +1,4 @@
-Hello_World {
-
+Hello_World() {
   echo "Hello World"
 }
 
