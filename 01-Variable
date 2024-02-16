@@ -1,5 +1,5 @@
 a=10
 
-echo Value of a is $a-dollar
+echo Value of a is $adollar
 echo Value of a is ${a}-dollar
 
