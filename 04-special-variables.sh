@@ -1,5 +1,3 @@
-echo Hi
-
 Hello World() {
   echo scipt name $0
   echo 1st Argument is $1
