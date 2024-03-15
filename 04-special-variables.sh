@@ -4,4 +4,4 @@ Hello_World() {
   echo 2nd Argument is $2
 }
 
-Hello_World $? 2
+Hello_World $?
